@@ -21,8 +21,8 @@ setup(
     keywords=["pafy", "API", "YouTube", "youtube", "download", "video"],
     author="np1",
     author_email="np1nagev@gmail.com",
-    url="https://github.com/mps-youtube/pafy/",
-    download_url="https://github.com/mps-youtube/pafy/tags",
+    url="https://github.com/Audeon/pafy",
+    download_url="https://github.com/Audeon/pafy",
     extras_require={
         'youtube-dl-backend': ["youtube-dl"],
         },
